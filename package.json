@@ -1,0 +1,15 @@
+{
+  "name": "opencensus-stackdriver-exporter-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@opencensus/exporter-stackdriver": "0.0.9",
+    "@opencensus/nodejs": "0.0.9"
+  }
+}
